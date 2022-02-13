@@ -32,4 +32,4 @@
 
 ## Author :technologist:
 
-**Kawe Maximo **
+**Kawe Maximo**
